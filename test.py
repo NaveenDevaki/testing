@@ -1,1 +1,6 @@
-print("hi i am hungry")
+a=input("are you feeling bored??")
+
+if a=='Yes'or'y':
+    print("Do watch some movies ")
+else:
+    print("Write some codde")
